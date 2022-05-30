@@ -82,7 +82,7 @@ header{
     transition-duration: 0.3s;
     transition-timing-function: cubic-bezier(0.01, 1.01, 0.18, 0.98);
     transition-delay: 0s;
-    background-color: #003566;
+    background-color: var(--auxiliar);
 }
 
 header div.flex_container {

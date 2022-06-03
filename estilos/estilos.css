@@ -398,7 +398,7 @@ section h2{
         text-align: left;
 }
 
-#cobertura.tabcontent > div{
+#pedidos.tabcontent > div{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -407,12 +407,12 @@ section h2{
     align-items: center;
 }
 
-#cobertura.tabcontent > div div:nth-of-type(1){
+#pedidos.tabcontent > div div:nth-of-type(1){
     width: 40%;
     padding-right: 20px;
 } 
 
-#cobertura.tabcontent > div div:nth-of-type(1) img{
+#pedidos.tabcontent > div div:nth-of-type(1) img{
     width: 100%;
 }
 
@@ -424,7 +424,7 @@ section h2{
 }
 
 .pf-description .bold_zona-text{
-    color: #4A397E;
+    font-weight: 800;
     font-family: 'Exo', sans-serif;
 }
 
